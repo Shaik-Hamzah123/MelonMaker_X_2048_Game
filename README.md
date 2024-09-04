@@ -38,7 +38,6 @@
     <li><strong>Fruit Merging:</strong> Combine fruits of the same type to create higher-tier fruits.</li>
     <li><strong>Score Points:</strong> Accumulate points as you merge fruits and progress towards the Melon.</li>
     <li><strong>Dynamic Levels:</strong> Complete levels and move on to new challenges with randomly generated grids.</li>
-    <li><strong>Next Fruit Preview:</strong> Anticipate your next move with a preview of the upcoming fruit.</li>
     <li><strong>Space Management:</strong> Navigate the limited grid space to maximize your score and reach the Melon.</li>
 </ul>
 
