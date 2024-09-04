@@ -9,8 +9,6 @@
 </head>
 <body>
 
-<h1>2048 x Melon Maker Game</h1>
-
 <p>Welcome to the <strong>2048 x Melon Maker Game</strong>! This game is a unique combination of two classic games: <strong>2048</strong> and <strong>Melon Maker</strong>. Experience a fun and challenging 2D tile-based game where your goal is to merge fruits to reach the ultimate goal—<strong>the Melon</strong>!</p>
 
 <h2>🕹️ Gameplay</h2>
